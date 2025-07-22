@@ -1,5 +1,8 @@
 # gs_java
-[Java ecosystem](https://docs.oracle.com/javase/tutorial/)
+[Java ecosystem](https://en.wikipedia.org/wiki/Java_(programming_language))
+
+# References
+1. [Practical guides to specialized trails and lessons](https://docs.oracle.com/javase/tutorial). Retrieved July 22, 2025.
 
 # Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue in the repository.
